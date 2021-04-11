@@ -4,4 +4,5 @@
 
 Видео его работы здесь: https://www.youtube.com/watch?v=EY1k9Iahgxw
 
+![Schematic](TRX_RA3XDH.png)
 
